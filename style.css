@@ -1,0 +1,22 @@
+body {
+    font-family: 'PT Serif', Arial, Helvetica, sans-serif;
+}
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #DBE4C6;
+}
+
+#Hobby {
+    background-color: #DBE4C6;
+}
+
+#Contact {
+    background-color: #DBE4C6;
+}
+
+footer {
+    background-color: #94AF9F;
+}
+section {
+    padding-top: 8rem;
+}
